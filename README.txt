@@ -1,32 +1,57 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio Website
 
+A responsive, modern **developer portfolio website** built using **HTML, CSS, and JavaScript** to showcase software engineering, backend, data, and systems projects. This portfolio highlights real-world applications, clean UI design, and scalable frontend architecture.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🚀 Overview
 
-(* = not included)
+This portfolio serves as a centralized hub for my projects, skills, and professional experience. It is designed with performance, accessibility, and clarity in mind, providing recruiters and hiring managers with a fast and intuitive way to explore my work.
 
-AJ
-aj@lkn.io | @ajlkn
+Key goals of the project:
+- Present projects in a clean, professional format
+- Demonstrate frontend engineering fundamentals
+- Maintain a lightweight, framework-free architecture
+- Support easy extensibility for future projects
 
+---
 
-Credits:
+## 🛠️ Tech Stack
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **HTML5** – Semantic markup and structured layouts  
+- **CSS3** – Responsive design, animations, and custom styling  
+- **JavaScript (ES6)** – Interactive behavior and UI enhancements  
+- **jQuery** – Smooth scrolling and DOM manipulation  
+- **Font Awesome** – Iconography  
+- **SASS (compiled)** – Maintainable styling workflow  
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📁 Project Structure
+
+```text
+assets/
+├── css/
+│   ├── fontawesome-all.min.css
+│   ├── main.css
+│   └── noscript.css
+├── js/
+│   ├── breakpoints.min.js
+│   ├── browser.min.js
+│   ├── jquery.min.js
+│   ├── jquery.scrollex.min.js
+│   ├── jquery.scrolly.min.js
+│   ├── main.js
+│   └── util.js
+├── sass/
+├── webfonts/
+├── images/
+│   ├── bg.jpg
+│   ├── overlay.png
+│   ├── pic01.jpg
+│   ├── pic02.jpg
+│   ├── pic03.jpg
+│   └── ...
+elements.html
+generic.html
+index.html
